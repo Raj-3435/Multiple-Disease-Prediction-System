@@ -78,5 +78,5 @@ It's recommended to use a virtual environment.
 ## ⭐ Give a Star!
 If you found this helpful, feel free to ⭐ the repository and share it with others!
 
-##📄 License
+## 📄 License
 This project is open source and available under the MIT License.
